@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\baozorp\source\repos\Project6\Project6\main.cpp(81,20): warning C4244: инициализация: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\baozorp\source\repos\Project6\Project6\main.cpp(89,36): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\baozorp\source\repos\Project6\Project6\main.cpp(99,17): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\baozorp\source\repos\Project6\Project6\main.cpp(101,21): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+  Project6.vcxproj -> C:\Users\baozorp\source\repos\Project6\Debug\Project6.exe

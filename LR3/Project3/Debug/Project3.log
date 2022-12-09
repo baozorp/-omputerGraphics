@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(302,42): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(303,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(304,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(397,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(398,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(404,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(405,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(427,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(428,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(431,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(444,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\baozorp\source\repos\Project3\Project3\MyForm.h(445,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project3.vcxproj -> C:\Users\baozorp\source\repos\Project3\Debug\Project3.exe
